@@ -1,68 +1,40 @@
-# YANA PYSETSKA 
-## New Skills 🚀
-- Python Basics [Portfolio](https://github.com/YanaPysetska/PYTHON.git)
-- Selenium Automation [Portfolio](https://github.com/YanaPysetska/SELENIUM.git)
-- API Automation 
-  
-## About Me ✨
-My name is Yana, I’m a QA Engineer with 5+ years of experience in testing UI, APIs, and databases across different devices. I make sure every product is fully tested and easy to use. I’m always excited to learn new technologies to improve my workflow.  
-I value good relationships in a team and respect everyone’s boundaries. I love working with people and sharing practical solutions. In my past projects, I’ve successfully handled challenging deadlines and delivered high-quality results. I’m driven, ambitious, and ready to work hard to achieve results with an inspiring team.
+Hi, I'm Yana 👋
 
-## My LinkedIn Profile 📄
-[LinkedIn](https://www.linkedin.com/in/jana-pysetska/)
+QA Engineer with 6 years of experience testing large-scale web platforms, APIs and databases. Manual & API testing · Python automation · AI-assisted QA
 
-## My Experience 🏢
+📍 Ontario → relocating to Vancouver, BC · open to remote across Canada 🔗 LinkedIn · ✉️ yanapysetskaca@gmail.com
 
-### Middle QA Engineer
-*The "Change Occupation" service on the Qiwa platform enables Saudi Arabian companies to align employees' professions with their actual job roles, enhancing transparency and streamlining the process.*  
-[Qiwa Platform Video](https://www.youtube.com/watch?v=dUl4MsWcy7k&ab_channel=Qiwa)
+What I do
+Test complex business flows end to end: registration, login, payments, dashboards, admin panels, roles & permissions
+Validate REST APIs with Postman and Swagger, and check data across UI, API and database layers with SQL
+Turn vague requirements into clear test scenarios and catch gaps before development starts
+Automate repeatable checks with Python (Selenium, Pytest, Playwright)
+Use LLMs (Claude, ChatGPT) to speed up test design and edge-case discovery, and verify their output
+Currently
+🤖 Building with the Claude API in Python
+📘 Preparing for ISTQB Foundation Level (CTFL)
+Projects
+Project	What's inside
+SELENIUM	UI test automation with Selenium WebDriver and Python
+PYTHON	Python fundamentals and practice tasks
+LLM testing (in progress)	Tests and evals for an app built on the Claude API
+Experience highlights
 
-#### Responsibilities:
-- **Requirements Analysis**: Skillful in translating complex software requirements into actionable testing strategies.
-- **TestRail and TestMo**: Capable of creating and managing detailed test cases, checklists, plans, and reports.
-- **Frontend/UI and Regression Testing**: Meticulously conducts testing of web applications for user interface and regression.
-- **API Testing**: Proficient in API testing using tools like Postman for functionality and integrations.
-- **Database Testing (MS SQL)**: Specialized in testing the functionality and integrity of databases.
-- **Jira Proficiency**: Well-versed in using Jira for project management, bug tracking, and resolution.
-- **Log Analysis**: Expertise in reviewing logs through ElasticSearch for comprehensive testing.
-- **GitHub Collaboration**: Proficient in version control and collaboration using GitLab for seamless integration.
-- **Bug Management**: Efficiently manages the end-to-end bug lifecycle, including reporting, reproduction, and resolution.
-- **Confluence**: Skilled in working with technical documentation in Confluence for effective collaboration.
-- **Burp Suite**: Security testing by manipulating web application requests, contributing to improved security measures.
-- **Cross-browser Testing**: Using BrowserStack to ensure web applications function correctly across different browsers.
-- **Presentation Skills**: Effectively convey the completed product functionality to the product owner in a clear and understandable manner.
+QA Engineer (Mid-Level), P2H · 2019–2025 Tested 3 large-scale web platforms with up to 2M+ users, including the "Change Occupation" service on Saudi Arabia's Qiwa platform.
 
----
+200+ test cases and checklists per service, kept current through every release
+~30 REST API endpoints validated with Postman, Swagger and DevTools
+Database validation in Microsoft SQL Server
+Burp Suite: intercepted and modified requests to check how backend and UI handle tampered data
+Accessibility (WCAG), cross-browser testing on BrowserStack, demos of finished features to the product owner
 
-### QA Engineer
-*QA Testing Process for Front-End Development of Small-Scale Websites*
+Earlier: testing of CMS-based websites (WordPress, custom CMS) and email templates across Gmail, Outlook and Apple Mail.
 
-#### Responsibilities:
-- **CMS Testing for Front-End Projects**: Conducted testing of multiple small-scale websites built on various CMS platforms, including WordPress and custom CMS.
-- **Manual Frontend/UI Testing**: Testing of user interfaces to ensure they functioned correctly and met design specifications.
-- **Creation & Maintenance of Test Documentation**: Created and maintained bug reports and checklists.
-- **Basic HTML/CSS Testing**: Performed testing to ensure proper structure, layout, and styling of websites.
-- **Accessibility Testing**: Conducted accessibility testing to ensure websites were compliant with WCAG, verifying that all elements were usable and accessible to users with disabilities.
+Toolbox
 
----
+Postman Swagger MS SQL Server Python Selenium Pytest Playwright Git Jira Confluence TestRail TestMo BrowserStack Burp Suite Claude API
 
-### Junior QA Engineer
-*Tested email templates, banners, and signatures for proper rendering and functionality across multiple email clients.*
-
-#### Responsibilities:
-- **Manual Email Template & Banner Testing**: Ensured correct rendering and functionality of email templates, animated banners, and signatures across various email clients.
-- **Cross-Client Email Testing**: Verified compatibility and accurate display of email content across popular email clients like Gmail, Outlook, and Apple Mail.
-
-## Soft Skills 🤝
-- Carefulness
-- Curiosity
-- Attention to details
-- Good communication skills
-- Creativity
-- Analytical thinking
-
-## Certificates 🏆
-- [**Software Testing** - IT STEP Computer Academy](https://drive.google.com/file/d/1hAKNL_Zn_QTXTLpUI2LiB5sCty2BZs3Q/view?usp=sharing)
-- [**QA Automation** - Hillel IT School](https://drive.google.com/file/d/1SIP0gGIXwdofghKIicd4yd6cvb4tAVAv/view?usp=sharing)
-- [**Selenium WebDriver with Python from Scratch + Frameworks**](https://drive.google.com/file/d/1jURRhNveLEBk6rrjb8wR1x75srnIfGXX/view?usp=sharing)
-
+Certificates
+Software Testing — IT STEP Computer Academy
+QA Automation with Python — Hillel IT School
+Selenium WebDriver with Python from Scratch + Frameworks — Udemy
